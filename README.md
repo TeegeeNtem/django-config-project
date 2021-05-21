@@ -1,4 +1,4 @@
 django-config-project
 
-[link to django config project](https://git.heroku.com/django-config-project.com)
+[link to django config project](https://django-config-project.herokuapp.com/)
 
